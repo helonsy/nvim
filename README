@@ -1,2 +1,6 @@
 #
 - 从github上下载下来，放到  ~/.config/nvim目录下
+
+# 
+- ~/.local/share/nvim 存了一些下载的插件
+- /usr/share/nvim 存了一下运行时数据(比如颜色主题在这里)
